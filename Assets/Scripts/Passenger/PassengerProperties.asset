@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a3f2494dd4027f48aeb4df7a42a8bf6, type: 3}
+  m_Name: PassengerProperties
+  m_EditorClassIdentifier: 
+  confused: {fileID: 21300000, guid: b56c841e1c172f54e93c8e3ee190d19b, type: 3}
+  suspicious: {fileID: 21300000, guid: 32969a31e265040429658cba4ce991c4, type: 3}
+  highAlert: {fileID: 21300000, guid: 4498ca096dc6e0744b0f36d9ce92fb70, type: 3}
